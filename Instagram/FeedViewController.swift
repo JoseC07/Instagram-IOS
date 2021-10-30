@@ -2,7 +2,7 @@
 //  FeedViewController.swift
 //  Instagram
 //
-//  Created by Urvik Patel on 10/12/21.
+//  
 //
 
 import UIKit

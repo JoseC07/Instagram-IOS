@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Instagram
 //
-//  Created by Urvik Patel on 10/11/21.
+// 
 //
 
 import UIKit
